@@ -1,0 +1,5 @@
+CHIP JunctionController {
+  IN PowerOn;
+  OUT X[3], Z[3];
+  PARTS:
+}
